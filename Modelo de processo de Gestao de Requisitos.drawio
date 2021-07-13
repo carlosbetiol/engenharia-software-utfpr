@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T17:57:28.734Z" agent="5.0 (X11)" etag="fP9ez70NPFqua4LjdLq_" compressed="false" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T18:24:41.656Z" agent="5.0 (X11)" etag="I9LpkjaEQPos1Me8yEcr" compressed="false" version="14.8.6" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1054" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="-10" y="155" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o7J0vp0uQSlqZqwxGxeL-50" value="GRE" style="swimlane;horizontal=0;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="420" width="1590" height="710" as="geometry">
+          <mxGeometry x="20" y="1250" width="1590" height="710" as="geometry">
             <mxRectangle x="50" y="440" width="30" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -220,13 +220,13 @@
           <mxGeometry x="286" y="10" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="o7J0vp0uQSlqZqwxGxeL-80" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="33" y="718" width="1567" height="10" as="geometry" />
+          <mxGeometry x="43" y="1548" width="1567" height="10" as="geometry" />
         </mxCell>
         <mxCell id="o7J0vp0uQSlqZqwxGxeL-124" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="856" y="567" width="40" height="20" as="geometry" />
+          <mxGeometry x="866" y="1397" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-64" value="Processo 1" style="swimlane;horizontal=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1200" width="1590" height="460" as="geometry" />
+          <mxGeometry x="15" y="2363" width="1590" height="460" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-66" value="Exemplos de critérios de avaliação: possuir identificação única; não ser ambíguo; estar consistente com os demais requisitos, etc. [IEEE 1998]." style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rounded=1;strokeWidth=1;" vertex="1" parent="zMS48Avbv7I0cEuDU5D0-64">
           <mxGeometry x="200" y="30" width="160" height="120" as="geometry" />
@@ -319,10 +319,10 @@
           <mxGeometry x="1350" y="215" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-108" value="GRE 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1670" width="50" height="20" as="geometry" />
+          <mxGeometry x="815" y="2833" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-109" value="" style="swimlane;horizontal=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1720" width="1590" height="570" as="geometry" />
+          <mxGeometry x="15" y="2883" width="1590" height="570" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zMS48Avbv7I0cEuDU5D0-109" source="zMS48Avbv7I0cEuDU5D0-110" target="zMS48Avbv7I0cEuDU5D0-111">
           <mxGeometry relative="1" as="geometry" />
@@ -451,10 +451,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-156" value="GRE 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="802" y="2300" width="50" height="20" as="geometry" />
+          <mxGeometry x="807" y="3463" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-157" value="Processo 1" style="swimlane;horizontal=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2380" width="1590" height="420" as="geometry" />
+          <mxGeometry x="15" y="3540" width="1590" height="420" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-158" value="&lt;div&gt;Equipe Técnica&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;rotation=270;strokeWidth=1;fontStyle=1" vertex="1" parent="zMS48Avbv7I0cEuDU5D0-157">
           <mxGeometry x="-10" y="200" width="100" height="20" as="geometry" />
@@ -537,10 +537,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-181" value="GRE 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="802" y="2810" width="50" height="20" as="geometry" />
+          <mxGeometry x="807" y="3970" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-183" value="" style="swimlane;horizontal=0;rounded=1;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2860" width="1590" height="570" as="geometry" />
+          <mxGeometry x="15" y="4020" width="1590" height="570" as="geometry" />
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zMS48Avbv7I0cEuDU5D0-183" source="zMS48Avbv7I0cEuDU5D0-185" target="zMS48Avbv7I0cEuDU5D0-189">
           <mxGeometry relative="1" as="geometry" />
@@ -655,7 +655,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMS48Avbv7I0cEuDU5D0-242" value="GRE 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="802" y="3440" width="50" height="20" as="geometry" />
+          <mxGeometry x="807" y="4600" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zMS48Avbv7I0cEuDU5D0-256" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;GRE 1. O entendimento dos requisitos é obtido junto aos fornecedores de requisitos;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;GRE 2. Os requisitos são avaliados com base em critérios objetivos e um comprometimento da equipe técnica com estes equisitos é obtido;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;GRE 3. A rastreabilidade bidirecional entre os requisitos e os produtos de trabalho é estabelecida e mantida;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;GRE 4. Revisões em planos e produtos de trabalho do projeto são realizadas visando identificar e corrigir inconsistências em relação aos requisitos;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;GRE 5. Mudanças nos requisitos são gerenciadas ao longo do projeto.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;spacing=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10" y="470" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zMS48Avbv7I0cEuDU5D0-257" value="Gerência de Requisitos - GRE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="440" width="347" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zMS48Avbv7I0cEuDU5D0-258" value="Ref. Bibliográfica: https://www.revistasg.uff.br/sg/article/view/1637/1343" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1110" width="460" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
